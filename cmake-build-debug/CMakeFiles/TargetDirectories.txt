@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/sad/toys/cmake-build-debug/CMakeFiles/toys.dir
+C:/Users/user/Desktop/sad/toys/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/sad/toys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
